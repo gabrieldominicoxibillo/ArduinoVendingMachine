@@ -1,6 +1,6 @@
 
 // POPCARD INTERFACE
-// CREATED BY AvBrand.com, April 2011
+// CREATED BY AvBrand.com, April 2011, modified into latest syntax May 2023
 
 #include <SPI.h>
 #include <Ethernet.h>
